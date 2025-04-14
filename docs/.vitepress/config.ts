@@ -4,7 +4,7 @@ import MarkdownPreview from 'vite-plugin-markdown-preview'
 
 import { head, nav, sidebar } from './configs'
 
-const APP_BASE_PATH = basename(process.env.GITHUB_REPOSITORY || '')
+const APP_BASE_PATH = ''
 
 export default defineConfig({
   outDir: '../dist',
@@ -42,7 +42,7 @@ export default defineConfig({
 
     footer: {
       message: '如有转载或 CV 的请标注本站原文地址',
-      copyright: 'Copyright © 2019-present maomao',
+      copyright: 'Copyright © 2025-TvT',
     },
 
     lastUpdated: {
