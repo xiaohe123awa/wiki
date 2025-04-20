@@ -12,9 +12,9 @@ hero:
   actions:
     - text: 开始阅读
       link: /nav/
-      theme: alt
     - text: TvT
       link: /nav
+      theme: alt
 features:
   - icon: 😭
     title: 于是我恍惚 好像付出真心是一种报应.
